@@ -6,6 +6,7 @@ import Numero from './components/Numero';
 function App() {
   return (
     <div className="App">
+      <h1>App Contador</h1>
       <Numero />
       <Botao />
       <p>versão 0.1.0</p>
