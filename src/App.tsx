@@ -10,7 +10,7 @@ function App() {
       <Numero />
       <Botao />
       <hr/>
-      <p>versão 0.1.0</p>
+      <p>versão 1.0.0</p>
     </div>
   );
 }
