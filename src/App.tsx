@@ -9,6 +9,7 @@ function App() {
       <h1>App Contador</h1>
       <Numero />
       <Botao />
+      <hr/>
       <p>versão 0.1.0</p>
     </div>
   );
